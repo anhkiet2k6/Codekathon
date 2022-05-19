@@ -1,0 +1,59 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intro {
+    text-align: center;
+    color: #774AD8;
+}
+.picture {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.small-box {
+    border-radius: 10px;
+    background-color: #5100ff;
+    text-align: initial;
+    margin: 30px auto;
+    color: #F8F5F9;
+    width: 700px;
+    padding: 2rem 1.5rem
+}
+.small-intro {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.action {
+    border-left: 5px solid #F8C929;
+    color: #F8C929;
+    padding: 0 11px;
+}
+.download {
+    display: block;
+    margin: 0 auto;
+    background-color: #F8C929;
+    padding: 10px;
+    border-radius: 10px;
+    color: #66490A;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.name {
+    text-align: center;
+    padding: 20px;
+    font-weight: 550;
+}
+.link {
+    border-radius: 5px;
+    padding: 2px 4px;
+    background-color: #FEEFB2;
+    color: #774AD8;
+    text-decoration: none;
+    font-weight: 700;
+}
+.letter {
+    padding: 0 16px;
+}
